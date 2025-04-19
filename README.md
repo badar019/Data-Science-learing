@@ -12,6 +12,6 @@ This repository contains my personal practice notebooks while learning Data Scie
 ## 🧰 Tools Used
 
 - Python 3.x
-- Jupyter Notebook (via Anaconda)
+- Jupyter Notebook (via VS code)
 - NumPy
 - Git & GitHub
